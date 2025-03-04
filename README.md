@@ -2,13 +2,13 @@
 
 ## 📌 Overview
 This project demonstrates various Python operators with examples. It covers:
-✅ Arithmetic Operators
-✅ Assignment Operators
-✅ Comparison Operators
-✅ Logical Operators
-✅ Bitwise Operators
-✅ Identity Operators
-✅ Membership Operators
+- ✅ Arithmetic Operators
+- ✅ Assignment Operators
+- ✅ Comparison Operators
+- ✅ Logical Operators
+- ✅ Bitwise Operators
+- ✅ Identity Operators
+- ✅ Membership Operators
 
 
 ## 🔢 Operators Demonstrated
